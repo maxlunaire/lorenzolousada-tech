@@ -15,7 +15,7 @@ class game():
     def info(self):
         print(f"je suis {self.nom} ma vie est actuelement de {self.heart} coeur , mes objets sont {self.objet}, mon handicape est {self.handicape}")
     def handicape(self,handicape):
-        if hadicape=="to fast":
+        if handicape=="to fast":
             pass
 
 class boss(game):
